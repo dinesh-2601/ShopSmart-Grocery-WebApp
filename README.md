@@ -198,7 +198,7 @@ Screenshot](Screenshots/admindashboard.png)
 
 ## 👩‍💻 Author
 
-Harika Devi
+Dinesh Devalla
 B.Tech -- Computer Science & Engineering
 Full Stack Developer (MERN)
 
